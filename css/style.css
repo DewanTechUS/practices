@@ -19,3 +19,7 @@ div {
     width: 300px; 
     height: auto;
 }
+span {
+    color: yellow;
+    font-size: 22px;
+}
