@@ -16,4 +16,6 @@ h1
 }
 div {
     background: #424204;
+    width: 500px; 
+    height: 500px;
 }
