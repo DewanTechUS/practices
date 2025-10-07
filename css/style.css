@@ -26,7 +26,7 @@ span {
     font-size: 22px;
     font-weight: bold;
 }
-
+/* .= used for class and # used for id */
 #top-section {
    background: rgb(144, 144, 206)
 
