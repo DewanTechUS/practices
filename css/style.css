@@ -70,7 +70,12 @@ font-size: 30px;
   Padding */
     border: 10px solid green;
     border-left: 10px solid red;
-
-
-
+    border-style: groove;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    
+    padding: 100px 100px 50px 25px;  /*top right bottom left---we can use short code to save time for padding*/ 
+    
 }
