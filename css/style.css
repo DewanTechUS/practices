@@ -27,12 +27,12 @@ span {
     font-weight: bold;
 }
 
- top-section {
+#top-section {
    background: rgb(144, 144, 206)
 
 }
 
-.bottom-section {
+#bottom-section {
     background-color: #cf3f3f
 }
 
