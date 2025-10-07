@@ -6,7 +6,7 @@ font-size: 21px;
 
 p {
     color: rgb(65, 8, 8);
-    font-size; 21px;
+    font-size: 21px;
 }
 
 h1 {
@@ -28,10 +28,14 @@ span {
 }
 
  .top-section {
-   background: #ffb3b3
+   background: rgb(144, 144, 206)
 
 }
 
 .bottom-section {
     background-color: #cf3f3f
+}
+
+.intro {
+font-size: 30px;
 }
