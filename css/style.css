@@ -39,3 +39,11 @@ span {
 .intro {
 font-size: 30px;
 }
+
+.highlight {
+    background:#d1d16a;
+
+}
+.accent-color {
+    color: red;
+}
