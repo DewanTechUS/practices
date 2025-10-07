@@ -57,8 +57,8 @@ font-size: 30px;
     background: #79cec3;
     width: 300px;
     margin: 100px;
-    border: 5;
-    border-color: #cf3f3f;
-    border-style: solid;
+    border-left: 5;
+    border-left-color: #cf3f3f;
+    border-left-style: solid;
 
 }
