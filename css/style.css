@@ -1,26 +1,37 @@
 body {
- background-color: #cce0ff;
-    color: #003366;
-    font-size: 21px; 
+background-color: #cce0ff;
+color: #003366;
+font-size: 21px; 
 }
 
 p {
     color: rgb(65, 8, 8);
     font-size; 21px;
 }
-h1
-  {
+
+h1 {
     font-size: 32px;
     color: #003366;
 
 }
+
 div {
     background: #d1d16a;
     width: 300px; 
     height: auto;
 }
+
 span {
     color: yellow;
     font-size: 22px;
     font-weight: bold;
+}
+
+ .top-section {
+   background: #ffb3b3
+
+}
+
+.bottom-section {
+    background-color: #cf3f3f
 }
