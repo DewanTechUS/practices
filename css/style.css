@@ -27,7 +27,7 @@ span {
     font-weight: bold;
 }
 
- .top-section {
+ top-section {
    background: rgb(144, 144, 206)
 
 }
@@ -41,7 +41,7 @@ font-size: 30px;
 }
 
 .highlight {
-    background:#d1d16a;
+    background:#2d9c23;
 
 }
 .accent-color {
