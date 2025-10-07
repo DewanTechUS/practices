@@ -57,8 +57,20 @@ font-size: 30px;
     background: #79cec3;
     width: 300px;
     margin: 100px;
-    border-left: 5;
+    border-left: 10px;
     border-left-color: #cf3f3f;
     border-left-style: solid;
+
+    border-right: 10px;
+    border-right-color: green;
+    border-right-style: solid ;
+/*code below is a short practices for 
+  Margin
+  Boarder
+  Padding */
+    border: 10px solid green;
+    border-left: 10px solid red;
+
+
 
 }
