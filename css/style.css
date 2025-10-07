@@ -27,9 +27,9 @@ span {
     font-weight: bold;
 }
 /* .= used for class and # used for id */
+
 #top-section {
    background: rgb(144, 144, 206)
-
 }
 
 #bottom-section {
@@ -47,7 +47,18 @@ font-size: 30px;
 .accent-color {
     color: red;
 }
-
+/*The CSS box model*/
+/*
+  Margin
+  Boarder
+  Padding
+*/
 .box {
-    background: #2d9c23;
+    background: #79cec3;
+    width: 300px;
+    margin: 100px;
+    border: 5;
+    border-color: #cf3f3f;
+    border-style: solid;
+
 }
