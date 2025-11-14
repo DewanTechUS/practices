@@ -4,6 +4,7 @@ color: #003366;
 font-size: 21px; 
 }
 
+
 p {
     color: rgb(65, 8, 8);
     font-size: 21px;
@@ -12,6 +13,7 @@ p {
 h1 {
     font-size: 32px;
     color: #003366;
+
 
 }
 
@@ -25,6 +27,9 @@ span {
     color: yellow;
     font-size: 22px;
     font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 /* .= used for class and # used for id */
 
