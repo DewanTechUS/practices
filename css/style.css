@@ -38,7 +38,10 @@ span {
 }
 
 #bottom-section {
-    background-color: #cf3f3f
+    background-color: #cf3f3f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .intro {
